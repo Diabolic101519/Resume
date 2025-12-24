@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rolando Palang-at Jr | QA Automation & Performance Tester</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background: #f5f7fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #1f2937;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { margin: 0; font-size: 2.2rem; }
+    header p { margin: .5rem 0 0; }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+
+    section {
+      margin-bottom: 2.5rem;
+    }
+
+    h2 {
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: .5rem;
+      color: #111827;
+    }
+
+    ul { padding-left: 1.2rem; }
+    li { margin-bottom: .4rem; }
+
+    .job {
+      margin-bottom: 1.5rem;
+    }
+
+    .job h3 { margin-bottom: .2rem; }
+    .job span { font-size: .9rem; color: #555; }
+
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: .8rem;
+    }
+
+    .skill {
+      background: #fff;
+      padding: .7rem .9rem;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.1);
+      font-size: .95rem;
+    }
+
+    footer {
+      background: #111827;
+      color: #d1d5db;
+      text-align: center;
+      padding: 1.2rem;
+      font-size: .9rem;
+    }
+
+    a { color: #2563eb; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+<h1>Rolando B. Palang-at Jr</h1>
+<p>Automation / Manual / Performance Tester</p>
+<p>📍 Cavite, PH | 📧 <a href="mailto:palangatjrrolando@gmail.com" style="color:#93c5fd">palangatjrrolando@gmail.com</a> | 📞 +639515148319</p>
+<p style="margin-top:1rem;">
+<a href="Rolando_Palang-at_Jr_Updated_CV.pdf" download
+style="background:#2563eb;color:#fff;padding:0.7rem 1.2rem;border-radius:6px;font-weight:bold;display:inline-block;">
+⬇ Download Resume (PDF)
+</a>
+</p>
+</header>
+
+<div class="container">
+
+  <section>
+    <h2>Objective</h2>
+    <p>
+      Quality Assurance Tester with strong experience in manual, automation, and performance testing.
+      Skilled in creating test scenarios, test cases, and automation scripts, with a goal of continuously
+      improving software quality and testing efficiency.
+    </p>
+  </section>
+
+  <section>
+    <h2>Work Experience</h2>
+
+    <div class="job">
+      <h3>Automation / Manual / Performance Tester</h3>
+      <span>Ascendion Digital PH – Client: BDO Unibank PH | May 2025 – Present</span>
+      <ul>
+        <li>Developed automation test scenarios and test cases using GenAI.</li>
+        <li>Performed manual test execution and defect logging via Jira/ALM.</li>
+        <li>Executed API testing using Postman.</li>
+        <li>Created JMeter scripts for load and endurance testing.</li>
+        <li>Analyzed performance metrics and applied tuning techniques.</li>
+        <li>Prepared performance test plans and completion reports.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <h3>Performance Tester</h3>
+      <span>Ascendion Digital PH – Client: BDO Unibank PH | January 2025 – March 2025</span>
+      <ul>
+        <li>Implemented automated API tests using Apache JMeter.</li>
+        <li>Conducted smoke, load, and endurance testing.</li>
+        <li>Collected non-functional requirements and documented results.</li>
+        <li>Identified system bottlenecks and improvement areas.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <h3>Automation / Performance Tester</h3>
+      <span>Software Laboratory Inc – Client: St. Luke’s Medical Center | January 2016 – July 2024</span>
+      <ul>
+        <li>Developed automation scripts using Ruby on Rails and Selenium WebDriver.</li>
+        <li>Performed performance testing with Apache JMeter.</li>
+        <li>Maintained scripts using SVN and collaborated with developers on defects.</li>
+        <li>Implemented Test Data Driven automation frameworks.</li>
+        <li>Prepared test environments and test data.</li>
+      </ul>
+    </div>
+
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p><strong>Bachelor of Science in Information Technology</strong><br>
+       Cavite State University – Main Campus (2007 – 2012)</p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill">Manual / Functional Testing</div>
+      <div class="skill">Regression, Smoke & End-to-End Testing</div>
+      <div class="skill">Automation Testing</div>
+      <div class="skill">API Testing (Postman)</div>
+      <div class="skill">Performance Testing (Apache JMeter)</div>
+      <div class="skill">Load & Endurance Testing</div>
+      <div class="skill">Ruby on Rails</div>
+	  <div class="skill">Selenium WebDriver</div>
+      <div class="skill">Python</div>
+      <div class="skill">UFT One</div>
+      <div class="skill">SQL</div>
+	  <div class="skill">MySQL</div>
+	  <div class="skill">Toad</div>
+      <div class="skill">Jira</div>
+	  <div class="skill">ALM</div>
+	  <div class="skill">ServiceNow</div>
+      <div class="skill">SVN Repository</div>
+	  <div class="skill">GitHub</div>
+      <div class="skill">GenAI</div>
+      <div class="skill">Test Documentation</div>
+	  <div class="skill">Reporting</div>
+    </div>
+	<h2>Programming Skills</h2>
+	<div class="ps">
+	
+	</div>
+  </section>
+
+</div>
+
+<footer>
+  <p>© 2025 Rolando Palang-at Jr | QA Automation & Performance Tester</p>
+</footer>
+
+</body>
+</html>
